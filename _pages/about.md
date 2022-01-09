@@ -50,7 +50,7 @@ I am a Ph.D student at SILAB, KAIST and advised by Prof. Jinkyoo Park. Before Ph
 **[[PDF]](https://www.tandfonline.com/doi/full/10.1080/10618600.2021.2023021){:target="_blank"}** **[[CODE]](https://github.com/becre2021/abinferhmmgp){:target="_blank"}**  
 * **Yohan Jung**, Jinkyoo Park
 * Extension of workshop paper [W2]
-* Journal of Computational and Graphical Statistics, 2021
+* Journal of Computational and Graphical Statistics (JCGS), 2021
 <br/>
 <br/>
 
@@ -64,14 +64,14 @@ I am a Ph.D student at SILAB, KAIST and advised by Prof. Jinkyoo Park. Before Ph
 **[W2] Scalable Hybrid Hidden Markov Model with Gaussian Process Emission for Sequential Time-series Observations.** 
 **[[PDF]](https://openreview.net/forum?id=gls08I17Zx){:target="_blank"}** **[[VIDEO]](https://youtu.be/W8V4GZ21KbE){:target="_blank"}**  
 * **Yohan Jung**, Jinkyoo Park
-* 3nd Symposium on Advances in Approximate Bayesian Inference, 2020
+* 3nd Symposium on Advances in Approximate Bayesian Inference (AABI), 2020
 <br/>
 <br/>
 
 **[W1] Spectral Mixture Kernel Approximation Using Reparameterized Random Fourier Feature** 
 **[[PDF]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}**   
 * **Yohan Jung**, Jinkyoo Park
-* 2nd Symposium on Advances in Approximate Bayesian Inference, 2019
+* 2nd Symposium on Advances in Approximate Bayesian Inference (AABI), 2019
 <br/>
 <br/>
 
