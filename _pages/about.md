@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum, tempore commodi ad quidem, deserunt, aliquam non rem
-  modi culpa enim eum dolore sequi illo nostrum adipisci totam ea inventore hic!  
+I am a Ph.D student at SILAB, KAIST and advised by Prof. Jinkyoo Park. Before Ph.D., I received a B.S. in Mathematics at UOS and a M.S in Industrial Systems & Engineering at KAIST.
 
 **[[CV]](https://e2ee22.github.io/){:target="_blank"}** **[[Github]](https://e2ee22.github.io/){:target="_blank"}** **[[Google scholar]](https://scholar.google.com/citations?user=DwAJS14AAAAJ&hl=ko){:target="_blank"}** updated at 22.01
 
@@ -80,10 +79,6 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum, tempore commodi
 **[[PDF]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}** **[[CODE]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}**  
 * **정요한**, 박진규
 * 한국시뮬레이션학회 2017
-
-
-
-
 
 
 ## Education
