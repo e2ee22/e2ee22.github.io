@@ -14,7 +14,7 @@ I am a Ph.D student at SILAB, KAIST and advised by Prof. Jinkyoo Park. Before Ph
 <style type='text/css'>
   ul{
     margin:0;
-    margin-top: -10px;
+    margin-top: -20px;
   }
 </style>  
 
