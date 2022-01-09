@@ -23,18 +23,17 @@ I am a Ph.D student at SILAB, KAIST and advised by Prof. Jinkyoo Park. Before Ph
 * Deep Probabilistic Model
 * Approximate Bayesian Inference
 
-## Publication
-C: Conference, J: journal, W: workshop, P: preprint, O: others /* equal contribution
+## Publication (C: Conference, J: journal, W: workshop, P: preprint, O: others /* equal contribution)
 
-**[P2] Point convolutional Neural Process for vector-valued stationary Process** 
-**[[PDF]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}** **[[CODE]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}**    
+**[P2] Cross Convolutional Neural Process for Multi-channls stationary process** 
+**[[PDF]](https://){:target="_blank"}** **[[CODE]](https://){:target="_blank"}**    
 * **Yohan Jung**, Jinkyoo Park  
 * Under review
 <br/>
 <br/>
 
 **[P1] Efficient Approximate Inference for Stationary Kernel on Frequency domain** 
-**[[PDF]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}** **[[CODE]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}**  
+**[[PDF]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}** **[[CODE]](https://github.com/becre2021/abinfergsm){:target="_blank"}**  
 * **Yohan Jung**, Kyungwoo Song, Jinkyoo Park  
 * Extension of workshop paper [W1]  
 * Under review
@@ -42,7 +41,7 @@ C: Conference, J: journal, W: workshop, P: preprint, O: others /* equal contribu
 <br/>
 
 **[J1] Scalable inference for hybrid Bayesian Hidden markov model using Gaussian Process Emission** 
-**[[PDF]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}** **[[CODE]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}**  
+**[[PDF]](https://www.tandfonline.com/doi/full/10.1080/10618600.2021.2023021){:target="_blank"}** **[[CODE]](https://github.com/becre2021/abinferhmmgp){:target="_blank"}**  
 * **Yohan Jung**, Jinkyoo Park
 * Extension of workshop paper [W2]
 * Journal of Computational and Graphical Statistics, 2021
@@ -50,28 +49,28 @@ C: Conference, J: journal, W: workshop, P: preprint, O: others /* equal contribu
 <br/>
 
 **[C2] Implicit kernel attention** 
-**[[PDF]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}** **[[CODE]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}**  
+**[[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/17168/16975){:target="_blank"}** **[[CODE]](https://github.com/gtshs2/Implicit_Kernel_Attention){:target="_blank"}**  
 * Kyungwoo Song, **Yohan Jung**, Dongjun Kim, Il-Chul Moon
 * AAAI Conference on Artificial Intelligence (AAAI), 2021
 <br/>
 <br/>
 
 **[W2] Scalable Hybrid Hidden Markov Model with Gaussian Process Emission for Sequential Time-series Observations.** 
-**[[PDF]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}** **[[CODE]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}**  
+**[[PDF]](https://openreview.net/forum?id=gls08I17Zx){:target="_blank"}** **[[VIDEO]](https://youtu.be/W8V4GZ21KbE){:target="_blank"}**  
 * **Yohan Jung**, Jinkyoo Park
 * 3nd Symposium on Advances in Approximate Bayesian Inference, 2020
 <br/>
 <br/>
 
 **[W1] Spectral Mixture Kernel Approximation Using Reparameterized Random Fourier Feature** 
-**[[PDF]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}** **[[CODE]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}**  
+**[[PDF]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}**   
 * **Yohan Jung**, Jinkyoo Park
 * 2nd Symposium on Advances in Approximate Bayesian Inference, 2019
 <br/>
 <br/>
 
 **[C1] Energy storage control based on user clustering and battery capacity allocation** 
-**[[PDF]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}** **[[CODE]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}**  
+**[[PDF]](https://ieeexplore.ieee.org/document/8273768){:target="_blank"}**   
 * Heechang Ryu, **Yohan Jung**, Jinkyoo Park
 * 2017 IEEE Power & Energy Society General Meeting, 1-5
 <br/>
@@ -84,6 +83,6 @@ C: Conference, J: journal, W: workshop, P: preprint, O: others /* equal contribu
 
 
 ## Education
-* 2018.03 - 2023.?? : Phd, Industrial Systems & Engineering at KAIST
+* 2018.03 - 2023.??: Phd, Industrial Systems & Engineering at KAIST
 * 2016.03 - 2018.02: MS, Industrial Systems & Engineering at KAIST
 * 2008.03 - 2016.02: BS, Mathematics, UOS
