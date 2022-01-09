@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a Ph.D student at SILAB, KAIST and advised by Prof. Jinkyoo Park. Before Ph.D., I received a B.S. in Mathematics at UOS and a M.S in Industrial Systems & Engineering at KAIST.
 
-**[[CV]](https://e2ee22.github.io/){:target="_blank"}** **[[Research Statement]](https://e2ee22.github.io/){:target="_blank"}** **[[Github]](https://e2ee22.github.io/){:target="_blank"}** **[[Google scholar]](https://scholar.google.com/citations?user=DwAJS14AAAAJ&hl=ko){:target="_blank"}** updated at 22.01
+**[[CV]](https://e2ee22.github.io/){:target="_blank"}** **[[Research Statement]](https://e2ee22.github.io/){:target="_blank"}**  **[[Google scholar]](https://scholar.google.com/citations?user=DwAJS14AAAAJ&hl=ko){:target="_blank"}** updated at 22.01
 
 <style type='text/css'>
   ul{
