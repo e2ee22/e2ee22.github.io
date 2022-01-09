@@ -49,7 +49,6 @@ I am a Ph.D student at SILAB, KAIST and advised by Prof. Jinkyoo Park. Before Ph
 * Journal of Computational and Graphical Statistics (JCGS), 2021
 * **[[PDF]](https://www.tandfonline.com/doi/full/10.1080/10618600.2021.2023021){:target="_blank"}** **[[CODE]](https://github.com/becre2021/abinferhmmgp){:target="_blank"}**  
 <br/>
-<br/>
 
 **[C2] Implicit kernel attention** 
 * Kyungwoo Song, **Yohan Jung**, Dongjun Kim, Il-Chul Moon
@@ -62,20 +61,17 @@ I am a Ph.D student at SILAB, KAIST and advised by Prof. Jinkyoo Park. Before Ph
 * 3nd Symposium on Advances in Approximate Bayesian Inference (AABI), 2020
 * **[[PDF]](https://openreview.net/forum?id=gls08I17Zx){:target="_blank"}** **[[VIDEO]](https://youtu.be/W8V4GZ21KbE){:target="_blank"}**  
 <br/>
-<br/>
 
 **[W1] Spectral Mixture Kernel Approximation Using Reparameterized Random Fourier Feature** 
 * **Yohan Jung**, Jinkyoo Park
 * 2nd Symposium on Advances in Approximate Bayesian Inference (AABI), 2019
 * **[[PDF]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}**   
 <br/>
-<br/>
 
 **[C1] Energy storage control based on user clustering and battery capacity allocation** 
 * Heechang Ryu, **Yohan Jung**, Jinkyoo Park
 * 2017 IEEE Power & Energy Society General Meeting, 1-5
 * **[[PDF]](https://ieeexplore.ieee.org/document/8273768){:target="_blank"}**   
-<br/>
 <br/>
 
 **[O1] 예측모델 (Gaussian Process Regression) 을 통한 에너지저장시스템 운영전략** 
