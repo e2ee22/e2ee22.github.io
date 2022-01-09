@@ -11,7 +11,13 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum, tempore commodi
   modi culpa enim eum dolore sequi illo nostrum adipisci totam ea inventore hic!  
 
 **[[CV]](https://e2ee22.github.io/){:target="_blank"}** **[[Github]](https://e2ee22.github.io/){:target="_blank"}** **[[Google scholar]](https://scholar.google.com/citations?user=DwAJS14AAAAJ&hl=ko){:target="_blank"}** updated at 22.01
-  
+
+<style type='text/css'>
+  ul{
+    margin:0;
+    margin-top: -10px;
+  }
+</style>  
   
 ## Research Interest
 * Gaussian Process Model
@@ -19,14 +25,14 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum, tempore commodi
 * Approximate Bayesian Inference
 
 ## Publication
-**[P2] Point convolutional Neural Process for vector-valued stationary Process**  
+**[P2] Point convolutional Neural Process for vector-valued stationary Process** 
 **[[PDF]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}** **[[CODE]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}**    
 * **Yohan Jung**, Jinkyoo Park  
 * Under review
 <br/>
 <br/>
 
-**[P1] Efficient Approximate Inference for Stationary Kernel on Frequency domain**  
+**[P1] Efficient Approximate Inference for Stationary Kernel on Frequency domain** 
 **[[PDF]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}** **[[CODE]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}**  
 * **Yohan Jung**, Kyungwoo Song, Jinkyoo Park  
 * Extension of workshop paper [W1]  
@@ -34,7 +40,7 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum, tempore commodi
 <br/>
 <br/>
 
-**[J1] Scalable inference for hybrid Bayesian Hidden markov model using Gaussian Process Emission**  
+**[J1] Scalable inference for hybrid Bayesian Hidden markov model using Gaussian Process Emission** 
 **[[PDF]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}** **[[CODE]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}**  
 * **Yohan Jung**, Jinkyoo Park
 * Extension of workshop paper [W2]
@@ -42,35 +48,35 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum, tempore commodi
 <br/>
 <br/>
 
-**[C2] Implicit kernel attention**  
+**[C2] Implicit kernel attention** 
 **[[PDF]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}** **[[CODE]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}**  
 * Kyungwoo Song, **Yohan Jung**, Dongjun Kim, Il-Chul Moon
 * AAAI Conference on Artificial Intelligence (AAAI), 2021
 <br/>
 <br/>
 
-**[W2] Scalable Hybrid Hidden Markov Model with Gaussian Process Emission for Sequential Time-series Observations.**  
+**[W2] Scalable Hybrid Hidden Markov Model with Gaussian Process Emission for Sequential Time-series Observations.** 
 **[[PDF]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}** **[[CODE]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}**  
 * **Yohan Jung**, Jinkyoo Park
 * 3nd Symposium on Advances in Approximate Bayesian Inference, 2020
 <br/>
 <br/>
 
-**[W1] Spectral Mixture Kernel Approximation Using Reparameterized Random Fourier Feature**  
+**[W1] Spectral Mixture Kernel Approximation Using Reparameterized Random Fourier Feature** 
 **[[PDF]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}** **[[CODE]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}**  
 * **Yohan Jung**, Jinkyoo Park
 * 2nd Symposium on Advances in Approximate Bayesian Inference, 2019
 <br/>
 <br/>
 
-**[C1] Energy storage control based on user clustering and battery capacity allocation**  
+**[C1] Energy storage control based on user clustering and battery capacity allocation** 
 **[[PDF]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}** **[[CODE]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}**  
 * Heechang Ryu, **Yohan Jung**, Jinkyoo Park
 * 2017 IEEE Power & Energy Society General Meeting, 1-5
 <br/>
 <br/>
 
-**[O1] 예측모델 (Gaussian Process Regression) 을 통한 에너지저장시스템 운영전략**  
+**[O1] 예측모델 (Gaussian Process Regression) 을 통한 에너지저장시스템 운영전략** 
 **[[PDF]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}** **[[CODE]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}**  
 * **정요한**, 박진규
 * 한국시뮬레이션학회 2017
