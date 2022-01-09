@@ -50,15 +50,13 @@ I am a Ph.D student at SILAB, KAIST and advised by Prof. Jinkyoo Park. Before Ph
 * Extension of workshop paper [W2]
 * Journal of Computational and Graphical Statistics (JCGS), 2021
 * **[[PDF]](https://www.tandfonline.com/doi/full/10.1080/10618600.2021.2023021){:target="_blank"}** **[[CODE]](https://github.com/becre2021/abinferhmmgp){:target="_blank"}**  
-
 <br/>
 <br/>
 
 **[C2] Implicit kernel attention** 
 * Kyungwoo Song, **Yohan Jung**, Dongjun Kim, Il-Chul Moon
 * AAAI Conference on Artificial Intelligence (AAAI), 2021
-**[[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/17168/16975){:target="_blank"}** **[[CODE]](https://github.com/gtshs2/Implicit_Kernel_Attention){:target="_blank"}**  
-
+* **[[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/17168/16975){:target="_blank"}** **[[CODE]](https://github.com/gtshs2/Implicit_Kernel_Attention){:target="_blank"}** 
 <br/>
 <br/>
 
@@ -66,7 +64,6 @@ I am a Ph.D student at SILAB, KAIST and advised by Prof. Jinkyoo Park. Before Ph
 * **Yohan Jung**, Jinkyoo Park
 * 3nd Symposium on Advances in Approximate Bayesian Inference (AABI), 2020
 * **[[PDF]](https://openreview.net/forum?id=gls08I17Zx){:target="_blank"}** **[[VIDEO]](https://youtu.be/W8V4GZ21KbE){:target="_blank"}**  
-
 <br/>
 <br/>
 
@@ -74,7 +71,6 @@ I am a Ph.D student at SILAB, KAIST and advised by Prof. Jinkyoo Park. Before Ph
 * **Yohan Jung**, Jinkyoo Park
 * 2nd Symposium on Advances in Approximate Bayesian Inference (AABI), 2019
 * **[[PDF]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}**   
-
 <br/>
 <br/>
 
@@ -82,7 +78,6 @@ I am a Ph.D student at SILAB, KAIST and advised by Prof. Jinkyoo Park. Before Ph
 * Heechang Ryu, **Yohan Jung**, Jinkyoo Park
 * 2017 IEEE Power & Energy Society General Meeting, 1-5
 * **[[PDF]](https://ieeexplore.ieee.org/document/8273768){:target="_blank"}**   
-
 <br/>
 <br/>
 
@@ -90,4 +85,3 @@ I am a Ph.D student at SILAB, KAIST and advised by Prof. Jinkyoo Park. Before Ph
 * **정요한**, 박진규
 * 한국시뮬레이션학회 2017
 * **[[PDF]](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE07169362&mark=0&useDate=&ipRange=N&accessgl=Y&language=ko_KR){:target="_blank"}**   
-
