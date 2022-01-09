@@ -78,7 +78,7 @@ C: Conference, J: journal, W: workshop, P: preprint, O: others /* equal contribu
 <br/>
 
 **[O1] 예측모델 (Gaussian Process Regression) 을 통한 에너지저장시스템 운영전략** 
-**[[PDF]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}** **[[CODE]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}**  
+**[[PDF]](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE07169362&mark=0&useDate=&ipRange=N&accessgl=Y&language=ko_KR){:target="_blank"}**   
 * **정요한**, 박진규
 * 한국시뮬레이션학회 2017
 
