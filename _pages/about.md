@@ -34,16 +34,12 @@ I am a Ph.D student at SILAB, KAIST and advised by Prof. Jinkyoo Park. Before Ph
 **[P2] Cross Convolutional Neural Process for Multi-channls stationary process** 
 * **Yohan Jung**, Jinkyoo Park  
 * Under review
-* **[[PDF]](https://){:target="_blank"}** **[[CODE]](https://){:target="_blank"}**    
-
-<br/>
+* **[[PDF]](https://){:target="_blank"}** **[[CODE]](https://){:target="_blank"}**    <br/>
 
 **[P1] Efficient Approximate Inference for Stationary Kernel on Frequency domain** 
 * **Yohan Jung**, Kyungwoo Song, Jinkyoo Park  
 * Extension of workshop paper [W1]  
-* **[[PDF]](https://){:target="_blank"}** **[[CODE]](https://github.com/becre2021/abinfergsm){:target="_blank"}**    
-
-<br/>
+* **[[PDF]](https://){:target="_blank"}** **[[CODE]](https://github.com/becre2021/abinfergsm){:target="_blank"}**    <br/>
 
 **[J1] Scalable inference for hybrid Bayesian Hidden markov model using Gaussian Process Emission** 
 * **Yohan Jung**, Jinkyoo Park
@@ -54,7 +50,7 @@ I am a Ph.D student at SILAB, KAIST and advised by Prof. Jinkyoo Park. Before Ph
 **[C2] Implicit kernel attention** 
 * Kyungwoo Song, **Yohan Jung**, Dongjun Kim, Il-Chul Moon
 * AAAI Conference on Artificial Intelligence (AAAI), 2021
-* **[[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/17168/16975){:target="_blank"}** **[[CODE]](https://github.com/gtshs2/Implicit_Kernel_Attention){:target="_blank"}** <br/>
+* **[[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/17168/16975){:target="_blank"}** **[[CODE]](https://github.com/gtshs2/Implicit_Kernel_Attention){:target="_blank"}**<br/>
 
 **[W2] Scalable Hybrid Hidden Markov Model with Gaussian Process Emission for Sequential Time-series Observations** 
 * **Yohan Jung**, Jinkyoo Park
