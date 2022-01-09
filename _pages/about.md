@@ -49,6 +49,7 @@ I am a Ph.D student at SILAB, KAIST and advised by Prof. Jinkyoo Park. Before Ph
 * Journal of Computational and Graphical Statistics (JCGS), 2021
 * **[[PDF]](https://www.tandfonline.com/doi/full/10.1080/10618600.2021.2023021){:target="_blank"}** **[[CODE]](https://github.com/becre2021/abinferhmmgp){:target="_blank"}** 
 <br/>
+<br/>
 
 **[C2] Implicit kernel attention** 
 * Kyungwoo Song, **Yohan Jung**, Dongjun Kim, Il-Chul Moon
