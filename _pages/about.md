@@ -39,50 +39,55 @@ I am a Ph.D student at SILAB, KAIST and advised by Prof. Jinkyoo Park. Before Ph
 <br/>
 
 **[P1] Efficient Approximate Inference for Stationary Kernel on Frequency domain** 
-**[[PDF]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}** **[[CODE]](https://github.com/becre2021/abinfergsm){:target="_blank"}**  
 * **Yohan Jung**, Kyungwoo Song, Jinkyoo Park  
 * Extension of workshop paper [W1]  
-* Under review
+* **[[PDF]](https://){:target="_blank"}** **[[CODE]](https://){:target="_blank"}**    
 <br/>
 <br/>
 
 **[J1] Scalable inference for hybrid Bayesian Hidden markov model using Gaussian Process Emission** 
-**[[PDF]](https://www.tandfonline.com/doi/full/10.1080/10618600.2021.2023021){:target="_blank"}** **[[CODE]](https://github.com/becre2021/abinferhmmgp){:target="_blank"}**  
 * **Yohan Jung**, Jinkyoo Park
 * Extension of workshop paper [W2]
 * Journal of Computational and Graphical Statistics (JCGS), 2021
+* **[[PDF]](https://www.tandfonline.com/doi/full/10.1080/10618600.2021.2023021){:target="_blank"}** **[[CODE]](https://github.com/becre2021/abinferhmmgp){:target="_blank"}**  
+
 <br/>
 <br/>
 
 **[C2] Implicit kernel attention** 
-**[[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/17168/16975){:target="_blank"}** **[[CODE]](https://github.com/gtshs2/Implicit_Kernel_Attention){:target="_blank"}**  
 * Kyungwoo Song, **Yohan Jung**, Dongjun Kim, Il-Chul Moon
 * AAAI Conference on Artificial Intelligence (AAAI), 2021
+**[[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/17168/16975){:target="_blank"}** **[[CODE]](https://github.com/gtshs2/Implicit_Kernel_Attention){:target="_blank"}**  
+
 <br/>
 <br/>
 
 **[W2] Scalable Hybrid Hidden Markov Model with Gaussian Process Emission for Sequential Time-series Observations.** 
-**[[PDF]](https://openreview.net/forum?id=gls08I17Zx){:target="_blank"}** **[[VIDEO]](https://youtu.be/W8V4GZ21KbE){:target="_blank"}**  
 * **Yohan Jung**, Jinkyoo Park
 * 3nd Symposium on Advances in Approximate Bayesian Inference (AABI), 2020
+* **[[PDF]](https://openreview.net/forum?id=gls08I17Zx){:target="_blank"}** **[[VIDEO]](https://youtu.be/W8V4GZ21KbE){:target="_blank"}**  
+
 <br/>
 <br/>
 
 **[W1] Spectral Mixture Kernel Approximation Using Reparameterized Random Fourier Feature** 
-**[[PDF]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}**   
 * **Yohan Jung**, Jinkyoo Park
 * 2nd Symposium on Advances in Approximate Bayesian Inference (AABI), 2019
+* **[[PDF]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}**   
+
 <br/>
 <br/>
 
 **[C1] Energy storage control based on user clustering and battery capacity allocation** 
-**[[PDF]](https://ieeexplore.ieee.org/document/8273768){:target="_blank"}**   
 * Heechang Ryu, **Yohan Jung**, Jinkyoo Park
 * 2017 IEEE Power & Energy Society General Meeting, 1-5
+* **[[PDF]](https://ieeexplore.ieee.org/document/8273768){:target="_blank"}**   
+
 <br/>
 <br/>
 
 **[O1] 예측모델 (Gaussian Process Regression) 을 통한 에너지저장시스템 운영전략** 
-**[[PDF]](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE07169362&mark=0&useDate=&ipRange=N&accessgl=Y&language=ko_KR){:target="_blank"}**   
 * **정요한**, 박진규
 * 한국시뮬레이션학회 2017
+* **[[PDF]](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE07169362&mark=0&useDate=&ipRange=N&accessgl=Y&language=ko_KR){:target="_blank"}**   
+
