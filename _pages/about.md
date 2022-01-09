@@ -17,13 +17,19 @@ I am a Ph.D student at SILAB, KAIST and advised by Prof. Jinkyoo Park. Before Ph
     margin-top: -10px;
   }
 </style>  
-  
+
+## Education
+* 2018.03 - 20??.??: Phd, Industrial Systems & Engineering at KAIST
+* 2016.03 - 2018.02: MS, Industrial Systems & Engineering at KAIST
+* 2008.03 - 2016.02: BS, Mathematics, UOS
+
 ## Research Interest
-* Gaussian Process Model
-* Deep Probabilistic Model
+* Gaussian Process Model and Kernel method
+* Deep Probabilistic & Bayesain Model
 * Approximate Bayesian Inference
 
-## Publication (C: Conference, J: journal, W: workshop, P: preprint, O: others /* equal contribution)
+## Publication 
+(C: Conference, J: journal, W: workshop, P: preprint, O: others /* equal contribution)
 
 **[P2] Cross Convolutional Neural Process for Multi-channls stationary process** 
 **[[PDF]](https://){:target="_blank"}** **[[CODE]](https://){:target="_blank"}**    
@@ -80,9 +86,3 @@ I am a Ph.D student at SILAB, KAIST and advised by Prof. Jinkyoo Park. Before Ph
 **[[PDF]](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE07169362&mark=0&useDate=&ipRange=N&accessgl=Y&language=ko_KR){:target="_blank"}**   
 * **정요한**, 박진규
 * 한국시뮬레이션학회 2017
-
-
-## Education
-* 2018.03 - 2023.??: Phd, Industrial Systems & Engineering at KAIST
-* 2016.03 - 2018.02: MS, Industrial Systems & Engineering at KAIST
-* 2008.03 - 2016.02: BS, Mathematics, UOS
