@@ -24,6 +24,8 @@ I am a Ph.D student at SILAB, KAIST and advised by Prof. Jinkyoo Park. Before Ph
 * Approximate Bayesian Inference
 
 ## Publication
+C: Conference, J: journal, W: workshop, P: preprint, O: others /* equal contribution
+
 **[P2] Point convolutional Neural Process for vector-valued stationary Process** 
 **[[PDF]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}** **[[CODE]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}**    
 * **Yohan Jung**, Jinkyoo Park  
