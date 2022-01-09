@@ -40,14 +40,14 @@ I am a Ph.D student at SILAB, KAIST and advised by Prof. Jinkyoo Park. Before Ph
 **[P1] Efficient Approximate Inference for Stationary Kernel on Frequency domain** 
 * **Yohan Jung**, Kyungwoo Song, Jinkyoo Park  
 * Extension of workshop paper [W1]  
-* **[[PDF]](https://){:target="_blank"}** **[[CODE]](https://){:target="_blank"}**    
+* **[[PDF]](https://){:target="_blank"}** **[[CODE]](https://github.com/becre2021/abinfergsm){:target="_blank"}**    
 <br/>
 
 **[J1] Scalable inference for hybrid Bayesian Hidden markov model using Gaussian Process Emission** 
 * **Yohan Jung**, Jinkyoo Park
 * Extension of workshop paper [W2]
 * Journal of Computational and Graphical Statistics (JCGS), 2021
-* **[[PDF]](https://www.tandfonline.com/doi/full/10.1080/10618600.2021.2023021){:target="_blank"}** **[[CODE]](https://github.com/becre2021/abinferhmmgp){:target="_blank"}**  
+* **[[PDF]](https://www.tandfonline.com/doi/full/10.1080/10618600.2021.2023021){:target="_blank"}** **[[CODE]](https://github.com/becre2021/abinferhmmgp){:target="_blank"}** 
 <br/>
 
 **[C2] Implicit kernel attention** 
