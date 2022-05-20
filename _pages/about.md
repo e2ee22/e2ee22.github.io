@@ -33,7 +33,7 @@ I am a Ph.D student at SILAB, KAIST and advised by Prof. Jinkyoo Park. Before Ph
 ## Publication 
 (C: conference, J: journal, W: workshop, P: preprint, O: others, *:equal contribution)
 
-**[P2] Cross Convolutional Neural Process for Multi-channls stationary process** 
+**[P2] Bayesian Convolutional Deep sets with Task-Dependent Stationary Prior** 
 * **Yohan Jung**, Jinkyoo Park  
 * Under review
 * **[[PDF]](https://){:target="_blank"}** **[[CODE]](https://){:target="_blank"}**    <br/>
@@ -41,6 +41,7 @@ I am a Ph.D student at SILAB, KAIST and advised by Prof. Jinkyoo Park. Before Ph
 **[P1] Efficient Approximate Inference for Stationary Kernel on Frequency domain** 
 * **Yohan Jung**, Kyungwoo Song, Jinkyoo Park  
 * Extension of workshop paper [W1]  
+* International Conference on Machine Learning (ICML), 2022
 * **[[PDF]](https://){:target="_blank"}** **[[CODE]](https://){:target="_blank"}**    <br/>
 
 **[J1] Scalable inference for hybrid Bayesian Hidden markov model using Gaussian Process Emission** 
