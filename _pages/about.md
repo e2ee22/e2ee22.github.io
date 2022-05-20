@@ -34,6 +34,8 @@ I am a Ph.D student at SILAB, KAIST and advised by Prof. Jinkyoo Park. Before Ph
 ## Working Papers
 
 **[P1] Bayesian Convolutional Deep Sets with Task-Dependent Stationary Prior** 
+(P: preprint, O: others, *:equal contribution)
+
 * **Yohan Jung**, Jinkyoo Park  
 * Under review
 * **[[PDF]](https://){:target="_blank"}** **[[CODE]](https://){:target="_blank"}**    <br/>
