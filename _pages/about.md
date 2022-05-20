@@ -30,27 +30,31 @@ I am a Ph.D student at SILAB, KAIST and advised by Prof. Jinkyoo Park. Before Ph
 * Deep Probabilistic & Bayesain Model and its Uncertainty Estimation
 * Approximate Bayesian Inference
 
-## Publication 
-(C: conference, J: journal, W: workshop, P: preprint, O: others, *:equal contribution)
 
-**[P2] Bayesian Convolutional Deep sets with Task-Dependent Stationary Prior** 
+## Working Papers
+
+**[P1] Bayesian Convolutional Deep Sets with Task-Dependent Stationary Prior** 
 * **Yohan Jung**, Jinkyoo Park  
 * Under review
 * **[[PDF]](https://){:target="_blank"}** **[[CODE]](https://){:target="_blank"}**    <br/>
 
-**[P1] Efficient Approximate Inference for Stationary Kernel on Frequency domain** 
+
+## Publication (Peer-Reviwed)
+(C: conference, J: journal, W: workshop, P: preprint, O: others, *:equal contribution)
+
+**[C1] Efficient Approximate Inference for Stationary Kernel on Frequency domain** 
 * **Yohan Jung**, Kyungwoo Song, Jinkyoo Park  
 * Extension of workshop paper [W1]  
 * International Conference on Machine Learning (ICML), 2022
 * **[[PDF]](https://){:target="_blank"}** **[[CODE]](https://){:target="_blank"}**    <br/>
 
-**[J1] Scalable inference for hybrid Bayesian Hidden markov model using Gaussian Process Emission** 
+**[J1] Scalable Inference for Hybrid Bayesian Hidden Markov Model Using Gaussian Process Emission** 
 * **Yohan Jung**, Jinkyoo Park
 * Extension of workshop paper [W2]
 * Journal of Computational and Graphical Statistics (JCGS), 2021
 * **[[PDF]](https://drive.google.com/file/d/1odWC2x8cU5C3v4Dw32K4iU0UhTIPZs4G/view?usp=sharing){:target="_blank"}** **[[CODE]](https://github.com/becre2021/abinferhmmgp){:target="_blank"}** <br/>
 
-**[C2] Implicit kernel attention** 
+**[C2] Implicit Kernel Attention** 
 * Kyungwoo Song, **Yohan Jung**, Dongjun Kim, Il-Chul Moon
 * AAAI Conference on Artificial Intelligence (AAAI), 2021
 * **[[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/17168/16975){:target="_blank"}** **[[CODE]](https://github.com/gtshs2/Implicit_Kernel_Attention){:target="_blank"}**<br/>
