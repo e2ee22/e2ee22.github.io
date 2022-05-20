@@ -31,7 +31,7 @@ I am a Ph.D student at SILAB, KAIST and advised by Prof. Jinkyoo Park. Before Ph
 * Approximate Bayesian Inference
 
 
-## Working Papers
+## Working Paper
 
 **[P1] Bayesian Convolutional Deep Sets with Task-Dependent Stationary Prior** 
 (P: preprint, O: others, *:equal contribution)
@@ -41,7 +41,8 @@ I am a Ph.D student at SILAB, KAIST and advised by Prof. Jinkyoo Park. Before Ph
 * **[[PDF]](https://){:target="_blank"}** **[[CODE]](https://){:target="_blank"}**    <br/>
 
 
-## Publication (Peer-Reviwed)
+
+## Publication (Peer-Reviewed)
 (C: conference, J: journal, W: workshop, P: preprint, O: others, *:equal contribution)
 
 **[C1] Efficient Approximate Inference for Stationary Kernel on Frequency domain** 
