@@ -32,7 +32,7 @@ I am a Ph.D student at SILAB, KAIST and advised by Prof. Jinkyoo Park. Before Ph
 
 
 ## Working Paper
-(P: preprint, O: others, *:equal contribution)
+(P: preprint, *:equal contribution)
 
 **[P1] Bayesian Convolutional Deep Sets with Task-Dependent Stationary Prior** 
 * **Yohan Jung**, Jinkyoo Park  
@@ -42,7 +42,7 @@ I am a Ph.D student at SILAB, KAIST and advised by Prof. Jinkyoo Park. Before Ph
 
 
 ## Publication (Peer-Reviewed)
-(C: conference, J: journal, W: workshop, P: preprint, O: others, *:equal contribution)
+(C: conference, J: journal, W: workshop, O: others, *:equal contribution)
 
 **[C3] Efficient Approximate Inference for Stationary Kernel on Frequency domain** 
 * **Yohan Jung**, Kyungwoo Song, Jinkyoo Park  
