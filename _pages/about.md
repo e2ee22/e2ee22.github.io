@@ -42,7 +42,7 @@ I am a Ph.D student at SILAB, KAIST and advised by Prof. Jinkyoo Park. Before Ph
 
 
 ## Publication (Peer-Reviewed)
-(C: conference, J: journal, W: workshop, O: others, *:equal contribution)
+(W: workshop, C: conference, J: journal, O: others, *:equal contribution)
 
 **[C3] Efficient Approximate Inference for Stationary Kernel on Frequency domain** 
 * **Yohan Jung**, Kyungwoo Song, Jinkyoo Park  
