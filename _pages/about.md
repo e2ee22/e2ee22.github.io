@@ -25,10 +25,13 @@ I am a Ph.D student at SILAB, KAIST and advised by Prof. Jinkyoo Park. Before Ph
 * 2016.03 - 2018.02: MS, Industrial Systems & Engineering at KAIST
 * 2008.03 - 2016.02: BS, Mathematics, UOS
 
+
+
 ## Research Interest
 * Gaussian Process Model and Kernel method
 * Deep Probabilistic & Bayesain Model and its Uncertainty Estimation
 * Approximate Bayesian Inference
+
 
 
 ## Working Paper
@@ -46,14 +49,14 @@ I am a Ph.D student at SILAB, KAIST and advised by Prof. Jinkyoo Park. Before Ph
 
 **[C3] Efficient Approximate Inference for Stationary Kernel on Frequency domain** 
 * **Yohan Jung**, Kyungwoo Song, Jinkyoo Park  
-* Extension of workshop paper [W1]  
 * International Conference on Machine Learning (ICML), 2022
+* Extension of workshop paper [W1]  
 * **[[PDF]](https://){:target="_blank"}** **[[CODE]](https://){:target="_blank"}**    <br/>
 
 **[J1] Scalable Inference for Hybrid Bayesian Hidden Markov Model Using Gaussian Process Emission** 
 * **Yohan Jung**, Jinkyoo Park
-* Extension of workshop paper [W2]
 * Journal of Computational and Graphical Statistics (JCGS), 2021
+* Extension of workshop paper [W2]
 * **[[PDF]](https://drive.google.com/file/d/1odWC2x8cU5C3v4Dw32K4iU0UhTIPZs4G/view?usp=sharing){:target="_blank"}** **[[CODE]](https://github.com/becre2021/abinferhmmgp){:target="_blank"}** <br/>
 
 **[C2] Implicit Kernel Attention** 
