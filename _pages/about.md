@@ -10,7 +10,7 @@ redirect_from:
 
 **[[CV]](https://drive.google.com/file/d/1Ga4gctbENZB8RPv_3YDtuuWzFmZQ10ys/view?usp=sharing){:target="_blank"}** **[[Research Statement]](https://){:target="_blank"}**  **[[Google scholar]](https://scholar.google.com/citations?user=DwAJS14AAAAJ&hl=ko){:target="_blank"}** updated at 22.01
 
-I am a Ph.D student at SILAB, KAIST and advised by Prof. Jinkyoo Park. Before Ph.D., I received a B.S. in Mathematics at UOS and a M.S in Industrial Systems & Engineering at KAIST.
+I am a Ph.D student at SILAB, KAIST and advised by Prof. Jinkyoo Park. Before Ph.D., I received a B.S. in Mathematics at University of Seoul (UOS) and a M.S in Industrial Systems & Engineering at Korea Advanced Institute of Science & Technology (KAIST).
 
 
 <style type='text/css'>
@@ -21,8 +21,8 @@ I am a Ph.D student at SILAB, KAIST and advised by Prof. Jinkyoo Park. Before Ph
 </style>  
 
 ## Education
-* 2018.03 - 20??.??: Phd, Industrial Systems & Engineering at KAIST
-* 2016.03 - 2018.02: MS, Industrial Systems & Engineering at KAIST
+* 2018.03 - 20??.??: Phd, Industrial Systems & Engineering, KAIST
+* 2016.03 - 2018.02: MS, Industrial Systems & Engineering, KAIST
 * 2008.03 - 2016.02: BS, Mathematics, UOS
 
 
