@@ -21,13 +21,15 @@ I am a Ph.D student at SILAB, Korea Advanced Institute of Science & Technology (
 </style>  
 
 ## Education
-* 2018.03 - 20??.??: Phd, Industrial Systems & Engineering, KAIST
+
+* 2018.03 - 202?.??: Ph.D, Industrial Systems & Engineering, KAIST
 * 2016.03 - 2018.02: MS, Industrial Systems & Engineering, KAIST
 * 2008.03 - 2016.02: BS, Mathematics, UOS
 
 
 
 ## Research Interest
+
 * Gaussian Process Model and Kernel method
 * Deep Probabilistic & Bayesain Model and its Uncertainty Estimation
 * Approximate Bayesian Inference
