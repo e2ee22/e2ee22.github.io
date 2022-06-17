@@ -54,7 +54,7 @@ I am a Ph.D student at SILAB, Korea Advanced Institute of Science & Technology (
 * **Yohan Jung**, Kyungwoo Song, Jinkyoo Park  
 * International Conference on Machine Learning (ICML), 2022
 * Extension of workshop paper [W1]  
-* **[[PDF]]([https://](https://drive.google.com/file/d/1NIIedej7CPBFP5IhqlUJXb42tC6OvhGH/view?usp=sharing)){:target="_blank"}** **[[CODE]](https://github.com/becre2021/abinfergsm){:target="_blank"}**    <br/>
+* **[[PDF]](https://drive.google.com/file/d/1NIIedej7CPBFP5IhqlUJXb42tC6OvhGH/view?usp=sharing)){:target="_blank"}** **[[CODE]](https://github.com/becre2021/abinfergsm){:target="_blank"}**    <br/>
 
 {: .mb-5}
 **[J1] Scalable Inference for Hybrid Bayesian Hidden Markov Model Using Gaussian Process Emission** 
