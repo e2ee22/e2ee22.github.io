@@ -60,7 +60,7 @@ I am a Ph.D student at SILAB, Korea Advanced Institute of Science & Technology (
 {: .mb-5}
 **[J1] Scalable Inference for Hybrid Bayesian Hidden Markov Model Using Gaussian Process Emission** 
 * **Yohan Jung**, Jinkyoo Park
-* Journal of Computational and Graphical Statistics (JCGS), 2021
+* Journal of Computational and Graphical Statistics (JCGS), 2022
 * Extension of workshop paper [W2]
 * Code link is temporarily unavailable. Please email us if necessary.
 * **[[PDF]](https://drive.google.com/file/d/1odWC2x8cU5C3v4Dw32K4iU0UhTIPZs4G/view?usp=sharing){:target="_blank"}** **[[CODE]](https://github.com/becre2021/abinferhmmgp){:target="_blank"}** <br/>
