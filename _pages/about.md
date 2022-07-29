@@ -68,7 +68,7 @@ I am a Ph.D student at SILAB, Korea Advanced Institute of Science & Technology (
 {: .mb-5}
 **[C2] Implicit Kernel Attention** 
 * Kyungwoo Song, **Yohan Jung**, Dongjun Kim, Il-Chul Moon
-* AAAI Conference on Artificial Intelligence (AAAI), 2021
+* Association for the Advancement of Artificial Intelligence (AAAI), 2021
 * **[[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/17168/16975){:target="_blank"}** **[[CODE]](https://github.com/gtshs2/Implicit_Kernel_Attention){:target="_blank"}**<br/>
 
 {: .mb-5}
