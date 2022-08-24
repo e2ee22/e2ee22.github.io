@@ -33,6 +33,7 @@ I am a Ph.D student at SILAB, Korea Advanced Institute of Science & Technology (
 * Gaussian Process Model and Kernel method
 * Deep Probabilistic & Bayesain Model and its Uncertainty Estimation
 * Approximate Bayesian Inference
+* Provable guarantees for algorithm
 
 
 ## Working Paper
