@@ -20,7 +20,7 @@ redirect_from:
 
 ## Education
 
-* 2018.03 - 202?.??: Ph.D, Industrial Systems & Engineering, KAIST
+* 2018.03 - current: Ph.D, Industrial Systems & Engineering, KAIST
 * 2016.03 - 2018.02: MS, Industrial Systems & Engineering, KAIST
 * 2008.03 - 2016.02: BS, Mathematics, UOS
 
@@ -31,7 +31,7 @@ redirect_from:
 * Gaussian Process Model and Kernel method
 * Deep Probabilistic & Bayesain Model and its Uncertainty Estimation
 * Approximate Bayesian Inference
-* Provable guarantees for algorithm
+* Provably guaranteed algorithm
 
 
 ## Working Paper
