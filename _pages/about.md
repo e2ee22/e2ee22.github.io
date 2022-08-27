@@ -53,7 +53,7 @@ redirect_from:
 * **Yohan Jung**, Kyungwoo Song, Jinkyoo Park  
 * International Conference on Machine Learning (ICML), 2022
 * Extension of workshop paper [W1]  
-* Code link is temporarily unavailable. Please email us if necessary.
+%% * Code link is temporarily unavailable. Please email us if necessary.
 * **[[PDF]](https://drive.google.com/file/d/1NIIedej7CPBFP5IhqlUJXb42tC6OvhGH/view?usp=sharing){:target="_blank"}** **[[CODE]](https://github.com/becre2021/abinfergsm){:target="_blank"}**    <br/>
 
 {: .mb-5}
@@ -61,7 +61,7 @@ redirect_from:
 * **Yohan Jung**, Jinkyoo Park
 * Journal of Computational and Graphical Statistics (JCGS), 2022
 * Extension of workshop paper [W2]
-* Code link is temporarily unavailable. Please email us if necessary.
+%%* Code link is temporarily unavailable. Please email me if necessary.
 * **[[PDF]](https://drive.google.com/file/d/1odWC2x8cU5C3v4Dw32K4iU0UhTIPZs4G/view?usp=sharing){:target="_blank"}** **[[CODE]](https://github.com/becre2021/abinferhmmgp){:target="_blank"}** <br/>
 
 {: .mb-5}
