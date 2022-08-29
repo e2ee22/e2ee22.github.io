@@ -53,14 +53,15 @@ redirect_from:
 * **Yohan Jung**, Kyungwoo Song, Jinkyoo Park  
 * International Conference on Machine Learning (ICML), 2022
 * Extension of workshop paper [W1]    <!-- * Code link is temporarily unavailable. Please email us if necessary. !-->
-* **[[PDF]](https://drive.google.com/file/d/1NIIedej7CPBFP5IhqlUJXb42tC6OvhGH/view?usp=sharing){:target="_blank"}** **[[CODE]](https://github.com/becre2021/abinfergsm){:target="_blank"}**    <br/>
+* **[[PDF]](https://proceedings.mlr.press/v162/jung22b.html){:target="_blank"}** **[[CODE]](https://github.com/becre2021/abinfergsm){:target="_blank"}**    <br/>
 
 {: .mb-5}
 **[J1] Scalable Inference for Hybrid Bayesian Hidden Markov Model Using Gaussian Process Emission** 
 * **Yohan Jung**, Jinkyoo Park
 * Journal of Computational and Graphical Statistics (JCGS), 2022
 * Extension of workshop paper [W2]     <!-- %%* Code link is temporarily unavailable. Please email me if necessary. !-->
-* **[[PDF]](https://drive.google.com/file/d/1odWC2x8cU5C3v4Dw32K4iU0UhTIPZs4G/view?usp=sharing){:target="_blank"}** **[[CODE]](https://github.com/becre2021/abinferhmmgp){:target="_blank"}** <br/>
+* **[[PDF]](https://www.tandfonline.com/doi/full/10.1080/10618600.2021.2023021){:target="_blank"}** **[[CODE]](https://github.com/becre2021/abinferhmmgp){:target="_blank"}** <br/>
+
 
 {: .mb-5}
 **[C2] Implicit Kernel Attention** 
