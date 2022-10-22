@@ -41,7 +41,7 @@ redirect_from:
 **[P1] Bayesian Convolutional Deep Sets with Task-Dependent Stationary Prior** 
 * **Yohan Jung**, Jinkyoo Park  
 * Under review
-* **[[PDF]](https://){:target="_blank"}** **[[CODE]](https://){:target="_blank"}**    <br/>
+* **[[PDF]](https://arxiv.org/submit/4559058/view){:target="_blank"}** **[[CODE]](https://){:target="_blank"}**    <br/>
 
 
 
