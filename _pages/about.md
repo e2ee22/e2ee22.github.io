@@ -37,11 +37,12 @@ redirect_from:
 ## Working Paper
 (P: preprint, *:equal contribution)
 
-{: .mb-5}
+
 
 ## Publication (Peer-Reviewed)
 (W: workshop, C: conference, J: journal, O: others, *:equal contribution)
 
+{: .mb-5}
 **[C4] Bayesian Convolutional Deep Sets with Task-Dependent Stationary Prior** 
 * **Yohan Jung**, Jinkyoo Park  
 * International Conference on Artificial Intelligence and Statistics (AISTATS), 2023 (To appear)
