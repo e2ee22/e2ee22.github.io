@@ -20,7 +20,7 @@ redirect_from:
 
 ## Education
 
-* 2018.03 - 2023.02: Ph.D, Industrial Systems & Engineering, KAIST
+* 2018.03 - 2023.02: PhD, Industrial Systems & Engineering, KAIST
 * 2016.03 - 2018.02: MS, Industrial Systems & Engineering, KAIST
 * 2008.03 - 2016.02: BS, Mathematics, UOS
 
@@ -29,9 +29,10 @@ redirect_from:
 ## Research Interest
 
 * Gaussian Process Model and Kernel method
-* Deep Probabilistic & Bayesain Model and its Uncertainty Estimation
+* Probabilistic & Bayesain Deep Learning and its Uncertainty Estimation
 * Approximate Bayesian Inference
 * Provably guaranteed algorithm
+* Domain generalization 
 
 
 ## Working Paper
