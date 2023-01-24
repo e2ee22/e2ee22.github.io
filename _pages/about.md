@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**[[CV]](https://drive.google.com/file/d/1Ga4gctbENZB8RPv_3YDtuuWzFmZQ10ys/view?usp=share_link){:target="_blank"}** **[[Research Statement]](https://drive.google.com/file/d/1aM7qrw2psoCVrDPTz09nXQPzvGIYmPcJ/view?usp=sharing){:target="_blank"}**  **[[Google scholar]](https://scholar.google.com/citations?user=DwAJS14AAAAJ&hl=ko){:target="_blank"}** updated at 01/24/23. I am a Ph.D student at SILAB, Korea Advanced Institute of Science & Technology (KAIST) and advised by Prof. Jinkyoo Park. Before entering Ph.D program, I received a B.S. in Mathematics at University of Seoul (UOS) and a M.S in Industrial Systems & Engineering at KAIST.
+**[[CV]](https://drive.google.com/file/d/1Ga4gctbENZB8RPv_3YDtuuWzFmZQ10ys/view?usp=share_link){:target="_blank"}** **[[Research Statement]](https://drive.google.com/file/d/1aM7qrw2psoCVrDPTz09nXQPzvGIYmPcJ/view?usp=sharing){:target="_blank"}**  **[[Google scholar]](https://scholar.google.com/citations?user=DwAJS14AAAAJ&hl=ko){:target="_blank"}** updated at 01/24/23. I am a PhD student at SILAB, Korea Advanced Institute of Science & Technology (KAIST) and advised by Prof. Jinkyoo Park. Before entering PhD program, I received a BS. in Mathematics at University of Seoul (UOS) and a MS in Industrial Systems & Engineering at KAIST.
 
 
 <style type='text/css'>
@@ -29,11 +29,9 @@ redirect_from:
 ## Research Interest
 
 * Gaussian Process Model and Kernel method
-* Probabilistic & Bayesain Deep Learning and its Uncertainty Estimation
 * Approximate Bayesian Inference
-* Provably guaranteed algorithm
-* Domain generalization 
-
+* Probabilistic & Bayesain Deep Learning and its Uncertainty Estimation
+* Provably guaranteed algorithms for efficeint inference and improved generalization
 
 ## Working Paper
 (P: preprint, O: others, *:equal contribution)
