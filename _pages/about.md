@@ -35,7 +35,7 @@ redirect_from:
 
 
 ## Working Paper
-(P: preprint, *:equal contribution)
+(P: preprint, O: others, *:equal contribution)
 
 
 
