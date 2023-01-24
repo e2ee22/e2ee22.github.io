@@ -38,13 +38,14 @@ redirect_from:
 (P: preprint, *:equal contribution)
 
 {: .mb-5}
-**[P1] Bayesian Convolutional Deep Sets with Task-Dependent Stationary Prior** 
-* **Yohan Jung**, Jinkyoo Park  
-* Under review
-* **[[PDF]](https://arxiv.org/abs/2210.12363){:target="_blank"}** **[[CODE]](https://){:target="_blank"}**    <br/>
 
 ## Publication (Peer-Reviewed)
 (W: workshop, C: conference, J: journal, O: others, *:equal contribution)
+
+**[C4] Bayesian Convolutional Deep Sets with Task-Dependent Stationary Prior** 
+* **Yohan Jung**, Jinkyoo Park  
+* International Conference on Artificial Intelligence and Statistics (AISTATS), 2023 (To appear)
+* **[[PDF]](https://arxiv.org/abs/2210.12363){:target="_blank"}** **[[CODE]](https://){:target="_blank"}**    <br/>
 
 {: .mb-5}
 **[C3] Efficient Approximate Inference for Stationary Kernel on Frequency domain** 
