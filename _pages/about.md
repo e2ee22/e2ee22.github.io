@@ -31,7 +31,7 @@ redirect_from:
 * Gaussian Process Model and Kernel method
 * Approximate Bayesian Inference
 * Probabilistic & Bayesain Deep Learning and its Uncertainty Estimation
-* Provably guaranteed algorithms for efficeint inference and improved generalization
+* Provably guaranteed algorithms for efficeint inference and generalization improvment
 
 ## Working Paper
 (P: preprint, O: others, *:equal contribution)
