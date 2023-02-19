@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-**[[CV]](https://drive.google.com/file/d/1Ga4gctbENZB8RPv_3YDtuuWzFmZQ10ys/view?usp=share_link){:target="_blank"}** **[[Research Statement]](https://drive.google.com/file/d/1aM7qrw2psoCVrDPTz09nXQPzvGIYmPcJ/view?usp=sharing){:target="_blank"}**  **[[Google scholar]](https://scholar.google.com/citations?user=DwAJS14AAAAJ&hl=ko){:target="_blank"}** updated at 01/24/23.
+**[[Thesis]](https://){:target="_blank"}** **[[CV]](https://drive.google.com/file/d/1Ga4gctbENZB8RPv_3YDtuuWzFmZQ10ys/view?usp=share_link){:target="_blank"}** **[[Research Statement]](https://drive.google.com/file/d/1aM7qrw2psoCVrDPTz09nXQPzvGIYmPcJ/view?usp=sharing){:target="_blank"}**  **[[Google scholar]](https://scholar.google.com/citations?user=DwAJS14AAAAJ&hl=ko){:target="_blank"}** updated at 02/19/23.
 
-I am a PhD student at SILAB, Korea Advanced Institute of Science & Technology (KAIST) and advised by Prof. Jinkyoo Park. Before entering PhD program, I received a BS. in Mathematics at University of Seoul (UOS) and a MS in Industrial Systems & Engineering at KAIST.
+I will be working as a Postdoctoral researcher at SIML lab in KAIST, advised by Prof. Jooho Lee. I completed my PhD at SILAB in KAIST, advised Prof. Jinkyoo Park. Before entering the PhD program, I received a Bachelor of Science in Mathematics from the University of Seoul (UOS) and a Master of Science in Industrial Systems & Engineering from KAIST, advised Prof. Jinkyoo Park.
 
 
 <style type='text/css'>
@@ -19,6 +19,8 @@ I am a PhD student at SILAB, Korea Advanced Institute of Science & Technology (K
     /* margin-top: -20px; */
   }
 </style>  
+
+
 
 ## Education
 
