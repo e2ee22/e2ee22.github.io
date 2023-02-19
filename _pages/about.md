@@ -40,7 +40,7 @@ I will be working as a Postdoc researcher in Artificial Inteligence from KAIST, 
 
 {: .mb-5}
 **[O1] Domain Generalization for Time-Series Classification: Leverage Inductive Bias on Frequency Domain** 
-* **Yohan Jung<sup>*</sup>** , Chuanbo Hua<sup>*</sup>, Jinkyoo Park  
+* **Yohan Jung<sup>*</sup>**, Chuanbo Hua<sup>*</sup>, Jinkyoo Park  
 * Under review
 * **[[PDF]](https://){:target="_blank"}** **[[CODE]](https://){:target="_blank"}**    <br/>
 
