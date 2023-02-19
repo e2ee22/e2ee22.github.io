@@ -38,17 +38,17 @@ I will be working as a Postdoctoral researcher at SIML lab in KAIST, advised by 
 * Provably guaranteed algorithms for efficeint inference and generalization improvment
 
 ## Working Paper
-(P: preprint, O: others, *:equal contribution)
+(P: preprint, O: others, <sup>*</sup>:equal contribution)
 
 {: .mb-5}
 **[O1] Domain Generalization for Time-Series Classification: Leverage Inductive Bias on Frequency Domain** 
-* **Yohan Jung***, Chuanbo Hua*, Jinkyoo Park  
+* **Yohan Jung<sup>*</sup>** , Chuanbo Hua<sup>*</sup>, Jinkyoo Park  
 * Under review
 * **[[PDF]](https://){:target="_blank"}** **[[CODE]](https://){:target="_blank"}**    <br/>
 
 
 ## Publication (Peer-Reviewed)
-(W: workshop, C: conference, J: journal, O: others, *:equal contribution)
+(W: workshop, C: conference, J: journal, O: others, <sup>*</sup>:equal contribution)
 
 {: .mb-5}
 **[C4] Bayesian Convolutional Deep Sets with Task-Dependent Stationary Prior** 
