@@ -36,6 +36,11 @@ redirect_from:
 ## Working Paper
 (P: preprint, O: others, *:equal contribution)
 
+{: .mb-5}
+**[O1] Domain Generalization for Time-Series Classification: Leverage Inductive Bias on Frequency Domain** 
+* **Yohan Jung***, Chuanbo Hua*, Jinkyoo Park  
+* Under review
+* **[[PDF]](https://){:target="_blank"}** **[[CODE]](https://){:target="_blank"}**    <br/>
 
 
 ## Publication (Peer-Reviewed)
