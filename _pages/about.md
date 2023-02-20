@@ -19,13 +19,11 @@ I will be working as a Postdoc researcher in Artificial Inteligence from KAIST, 
 </style>  
 
 
-
 ## Education
 
 * 2018.03 - 2023.02: PhD, Industrial Systems & Engineering, KAIST
 * 2016.03 - 2018.02: MS, Industrial Systems & Engineering, KAIST
 * 2008.03 - 2016.02: BS, Mathematics, UOS
-
 
 
 ## Research Interest
