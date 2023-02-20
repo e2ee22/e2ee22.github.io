@@ -57,7 +57,7 @@ I will be working as a Postdoc researcher in Artificial Inteligence from KAIST, 
 * **Yohan Jung**, Kyungwoo Song, Jinkyoo Park  
 * International Conference on Machine Learning (ICML), 2022
 * Extension of workshop paper [W1]    <!-- * Code link is temporarily unavailable. Please email us if necessary. !-->
-* **[[PDF]](https://proceedings.mlr.press/v162/jung22b.html){:target="_blank"}** **[[CODE]](https://github.com/becre2021/abinfergsm){:target="_blank"}**    <br/>
+* **[[PDF]](https://proceedings.mlr.press/v162/jung22b.html){:target="_blank"}** **[[CODE]](https://github.com/becre2021/abinfergsm){:target="_blank"}** **[[VIDEO]](https://slideslive.ch/38983537/efficient-approximate-inference-for-stationary-kernel-on-frequency-domain?ref=recommended){:target="_blank"}**    <br/>
 
 {: .mb-5}
 **[J1] Scalable Inference for Hybrid Bayesian Hidden Markov Model Using Gaussian Process Emission** 
