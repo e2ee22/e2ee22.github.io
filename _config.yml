@@ -80,11 +80,11 @@ analytics:
 author:
   name: "Yohan Jung"
   avatar: "biopic.jpeg"
-  bio: "PhD Student, Industrial & Systems Engineering, KAIST"
-  location: "Location"
+  bio: "Postdoc, AI, KAIST"
+  location: #"Location"
   employer:
-  pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar: "https://scholar.google.com/citations?user=DwAJS14AAAAJ&hl=ko"
+  pubmed: #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar: #"https://scholar.google.com/citations?user=DwAJS14AAAAJ&hl=ko"
   email:
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
@@ -94,20 +94,20 @@ author:
   flickr:
   facebook:
   foursquare:
-  github: "e2ee22"
+  github: #"e2ee22"
   google_plus:
   keybase:
   instagram:
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
   linkedin:
-  orcid: "http://orcid.org/yourorcidurl"
+  orcid: #"http://orcid.org/yourorcidurl"
   pinterest:
   soundcloud:
   stackoverflow: # http://stackoverflow.com/users/123456/username
   steam:
   tumblr:
-  twitter: "replacethistwitterhandle"
+  twitter: #"replacethistwitterhandle"
   vine:
   weibo:
   xing:
