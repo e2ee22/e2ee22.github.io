@@ -26,10 +26,11 @@ I will be working as a Postdoc in Artificial Inteligence from KAIST, advised by 
 
 ## Research Interest
 
-- Gaussian Process Model and Kernel method
+- Gaussian process model and Kernel method
+- Probabilistic & Bayesian Deep Learning and its Uncertainty Estimation
 - Approximate Bayesian Inference
-- Probabilistic & Bayesain Deep Learning and its Uncertainty Estimation
-- Provably guaranteed algorithms for efficeint inference and generalization improvment
+- PAC-Bayes generalization bound
+
 
 ## Working Paper
 
