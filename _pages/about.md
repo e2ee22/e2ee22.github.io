@@ -41,7 +41,6 @@ I will be working as a Postdoc in Artificial Inteligence from KAIST, advised by 
 
 - **Yohan Jung<sup>\*</sup>**, Chuanbo Hua<sup>\*</sup>, Jinkyoo Park
 - Under review
-- **[[PDF]](https://){:target="\_blank"}** **[[CODE]](https://){:target="\_blank"}** <br/>
 
 ## Publication (Peer-Reviewed)
 
