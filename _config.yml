@@ -84,7 +84,7 @@ author:
   location: #"Location"
   employer:
   pubmed: #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar: #"https://scholar.google.com/citations?user=DwAJS14AAAAJ&hl=ko"
+  googlescholar: "https://scholar.google.co.kr/citations?user=DwAJS14AAAAJ&hl=en"
   email:
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
@@ -94,7 +94,7 @@ author:
   flickr:
   facebook:
   foursquare:
-  github: #"e2ee22"
+  github: "https://github.com/becre2021"
   google_plus:
   keybase:
   instagram:
@@ -107,7 +107,7 @@ author:
   stackoverflow: # http://stackoverflow.com/users/123456/username
   steam:
   tumblr:
-  twitter: #"replacethistwitterhandle"
+  twitter: "https://twitter.com/E2E22E222"
   vine:
   weibo:
   xing:
