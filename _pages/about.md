@@ -51,7 +51,7 @@ I will be working as a Postdoc in Artificial Inteligence from KAIST, advised by 
 
 - **Yohan Jung**, Jinkyoo Park
 - International Conference on Artificial Intelligence and Statistics (AISTATS), 2023 (To appear)
-- **[[PDF]](https://arxiv.org/abs/2210.12363){:target="_blank"}** **[[CODE]](https://github.com/becre2021/BayesConvdeepset){:target="\_blank"}** <br/>
+- **[[PDF]](https://proceedings.mlr.press/v206/jung23a.html){:target="_blank"}** **[[CODE]](https://github.com/becre2021/BayesConvdeepset){:target="\_blank"}** <br/>
 
 {: .mb-5}
 **[C3] Efficient Approximate Inference for Stationary Kernel on Frequency domain**
