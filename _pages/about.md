@@ -50,7 +50,7 @@ I will be working as a Postdoc in Artificial Inteligence from KAIST, advised by 
 **[C4] Bayesian Convolutional Deep Sets with Task-Dependent Stationary Prior**
 
 - **Yohan Jung**, Jinkyoo Park
-- International Conference on Artificial Intelligence and Statistics (AISTATS), 2023 (To appear)
+- International Conference on Artificial Intelligence and Statistics (AISTATS), 2023 
 - **[[PDF]](https://proceedings.mlr.press/v206/jung23a.html){:target="_blank"}** **[[CODE]](https://github.com/becre2021/BayesConvdeepset){:target="\_blank"}** <br/>
 
 {: .mb-5}
