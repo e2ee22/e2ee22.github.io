@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 **[[CV]](https://drive.google.com/file/d/1Ga4gctbENZB8RPv_3YDtuuWzFmZQ10ys/view?usp=share_link){:target="_blank",:style="text-decoration:none;"}** **[[Research Statement]](https://drive.google.com/file/d/1aM7qrw2psoCVrDPTz09nXQPzvGIYmPcJ/view?usp=sharing){:target="_blank",:style="text-decoration:none;"}** **[[Google scholar]](https://scholar.google.com/citations?user=DwAJS14AAAAJ&hl=ko){:target="_blank",:style="text-decoration:none;"}** updated at 10/01/23. <br>
-I am a Postdoc in Artificial Inteligence from KAIST, advised by Professor [Juho Lee](https://juho-lee.github.io/){:target="\_blank",:style="text-decoration:none;"}. Before this, I completed my PhD in Industrial Systems & Engineering from KAIST, advised Professor [Jinkyoo Park](http://silab.kaist.ac.kr/our-team/){:target="\_blank",:style="text-decoration:none;"}. Before entering the PhD program, I received a BS in Mathematics from the University of Seoul (UOS) and MS in Industrial Systems & Engineering from KAIST, advised Professor Jinkyoo Park.
+I am a Postdoc in Kim Jaechul Graduate School of Artificial Inteligence from KAIST, advised by Professor [Juho Lee](https://juho-lee.github.io/){:target="\_blank",:style="text-decoration:none;"}. Before this, I completed my PhD in Industrial Systems & Engineering from KAIST, advised Professor [Jinkyoo Park](http://silab.kaist.ac.kr/our-team/){:target="\_blank",:style="text-decoration:none;"}. Before entering the PhD program, I received a BS in Mathematics from the University of Seoul (UOS) and MS in Industrial Systems & Engineering from KAIST, advised Professor Jinkyoo Park.
 
 <style type='text/css'>
   ul{
