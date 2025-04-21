@@ -41,24 +41,42 @@ I  worked as a postdoc in Kim Jaechul Graduate School of Artificial Inteligence 
 
 ## Working Paper
 
-(P: preprint, O: others, <sup>\*</sup>:equal contribution)
+(P: preprint, O: others, *, †:corresponding author)
+
+
+
+
 
 {: .mb-5}
-**[O2] Improved Function Space Variational Inference with Informative Priors**
+**[O2] Effective Function-Space Regularization for Bayesian Neural Networks: Leverage the information from
+Learning Trajectory**
 
-- **Yohan Jung**, Juho Lee
+- **Yohan Jung**, Hyungi Lee,  Juho Lee
 - Under review
 
 
 {: .mb-5}
 **[O1] Domain Generalization for Time-Series Classification: Leverage Inductive Bias on Frequency Domain**
 
-- **Yohan Jung<sup>\*</sup>**, Chuanbo Hua<sup>\*</sup>, Jinkyoo Park
-- Under review
+- **Yohan Jung***, Chuanbo Hua*, Jinkyoo Park
 
 ## Publication (Peer-Reviewed)
 
-(W: workshop, C: conference, J: journal, O: others, <sup>\*</sup>:equal contribution)
+(W: workshop, C: conference, J: journal, O: others, *:equal contribution, †:corresponding author)
+
+{: .mb-5}
+**[W4] Compact Memory for K-prior Based Continual Learning**
+
+- **Yohan Jung***, Hyungi Lee*, Wenlong Chen*, Thomas Mllenhoff, Yingzhen Li, Juho Lee, Mohammad Emtiyaz Khan
+- To appear at 7th Symposium on Advances in Approximate Bayesian Inference (AABI), 2025
+
+
+{: .mb-5}
+**[W3] Flat Posterior For Bayesian Model Averaging**
+
+- Sungjun Lim, Jeyoon Yeom, Sooyon Kim, Hoyoon Byun, Jinho Kang, **Yohan Jung**†, Jiyoung Jung†, Kyungwoo Song†
+- To appear at The Frontiers in Probabilistic Inference: Sampling meets Learning (ICLR 2025 Workshop)
+
 
 {: .mb-5}
 **[C4] Bayesian Convolutional Deep Sets with Task-Dependent Stationary Prior**
