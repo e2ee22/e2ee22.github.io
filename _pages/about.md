@@ -59,7 +59,7 @@ Learning Trajectory**
 {: .mb-5}
 **[O1] Domain Generalization for Time-Series Classification: Leverage Inductive Bias on Frequency Domain**
 
-- **Yohan Jung***, Chuanbo Hua*, Jinkyoo Park
+- **Yohan Jung**\*, Chuanbo Hua*, Jinkyoo Park
 
 ## Publication (Peer-Reviewed)
 
@@ -68,7 +68,7 @@ Learning Trajectory**
 {: .mb-5}
 **[W4] Compact Memory for K-prior Based Continual Learning**
 
-- **Yohan Jung***, Hyungi Lee*, Wenlong Chen*, Thomas Mllenhoff, Yingzhen Li, Juho Lee, Mohammad Emtiyaz Khan
+- **Yohan Jung**\*, Hyungi Lee*, Wenlong Chen*, Thomas Mllenhoff, Yingzhen Li, Juho Lee, Mohammad Emtiyaz Khan
 - To appear at 7th Symposium on Advances in Approximate Bayesian Inference (AABI), 2025
 
 
