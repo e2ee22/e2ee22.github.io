@@ -37,6 +37,7 @@ I  worked as a postdoc in Kim Jaechul Graduate School of Artificial Inteligence 
 - Probabilistic & Bayesian Deep Learning and its Uncertainty Estimation
 - Approximate Bayesian Inference
 - PAC-Bayes generalization bound
+- Adaptaion algorithms for transfer learning and continual learning
 
 
 ## Working Paper
