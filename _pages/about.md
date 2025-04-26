@@ -70,6 +70,7 @@ Learning Trajectory**
 
 - **Yohan Jung**\*, Hyungi Lee\*, Wenlong Chen\*, Thomas Mllenhoff, Yingzhen Li, Juho Lee, Mohammad Emtiyaz Khan
 - To appear at 7th Symposium on Advances in Approximate Bayesian Inference (AABI), 2025
+- **[[PDF]](https://openreview.net/pdf?id=vx0USHUYgL){:target="_blank"}**
 
 
 {: .mb-5}
