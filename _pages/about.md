@@ -53,7 +53,6 @@ I  worked as a postdoc in Kim Jaechul Graduate School of Artificial Inteligence 
 Learning Trajectory**
 
 - **Yohan Jung**, Hyungi Lee,  Juho Lee
-- Under review
 
 
 {: .mb-5}
@@ -77,7 +76,8 @@ Learning Trajectory**
 **[W3] Flat Posterior For Bayesian Model Averaging**
 
 - Sungjun Lim, Jeyoon Yeom, Sooyon Kim, Hoyoon Byun, Jinho Kang, **Yohan Jung**†, Jiyoung Jung†, Kyungwoo Song†
-- To appear at The Frontiers in Probabilistic Inference: Sampling meets Learning (ICLR 2025 Workshop)
+- To appear at Conference on Uncertainty in Artificial Intelligence (UAI), 2025
+- ICLR 2025 Workshop: The Frontiers in Probabilistic Inference: Sampling meets Learning 
 
 
 {: .mb-5}
