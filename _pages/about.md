@@ -73,7 +73,7 @@ Learning Trajectory**
 
 
 {: .mb-5}
-**[C5,W3] Flat Posterior For Bayesian Model Averaging**
+**[C5,W3] Flat Posterior Does Matter For Bayesian Model Averaging**
 
 - Sungjun Lim, Jeyoon Yeom, Sooyon Kim, Hoyoon Byun, Jinho Kang, **Yohan Jung**†, Jiyoung Jung†, Kyungwoo Song†
 - To appear at Conference on Uncertainty in Artificial Intelligence (UAI), 2025
