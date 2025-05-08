@@ -65,7 +65,7 @@ Learning Trajectory**
 (W: workshop, C: conference, J: journal, O: others, *:equal contribution, †:corresponding author)
 
 {: .mb-5}
-**[W4] Compact Memory for K-prior Based Continual Learning**
+**[W4,C5] Compact Memory for K-prior Based Continual Learning**
 
 - **Yohan Jung**\*, Hyungi Lee\*, Wenlong Chen\*, Thomas Mllenhoff, Yingzhen Li, Juho Lee, Mohammad Emtiyaz Khan
 - To appear at 7th Symposium on Advances in Approximate Bayesian Inference (AABI), 2025
