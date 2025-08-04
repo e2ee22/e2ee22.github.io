@@ -82,6 +82,7 @@ I  worked as a postdoc in Kim Jaechul Graduate School of Artificial Inteligence 
 - Sungjun Lim, Jeyoon Yeom, Sooyon Kim, Hoyoon Byun, Jinho Kang, **Yohan Jung**†, Jiyoung Jung†, Kyungwoo Song†
 - To appear at Conference on Uncertainty in Artificial Intelligence (UAI), 2025
 - ICLR 2025 Workshop: The Frontiers in Probabilistic Inference: Sampling meets Learning 
+- **[[PDF]](https://proceedings.mlr.press/v286/lim25a.html){:target="_blank"}** **[[CODE]](https://github.com/MLAI-Yonsei/FP-BMA){:target="\_blank"}** <br/>
 
 
 {: .mb-5}
