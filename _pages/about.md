@@ -72,7 +72,7 @@ I  worked as a postdoc in Kim Jaechul Graduate School of Artificial Inteligence 
 **[W4] Compact Memory for K-prior Based Continual Learning**
 
 - **Yohan Jung**\*, Hyungi Lee\*, Wenlong Chen\*, Thomas Mllenhoff, Yingzhen Li, Juho Lee, Mohammad Emtiyaz Khan
-- To appear at 7th Symposium on Advances in Approximate Bayesian Inference (AABI), 2025
+- 7th Symposium on Advances in Approximate Bayesian Inference (AABI), 2025
 - **[[PDF]](https://openreview.net/pdf?id=vx0USHUYgL){:target="_blank"}**
 
 
@@ -80,7 +80,7 @@ I  worked as a postdoc in Kim Jaechul Graduate School of Artificial Inteligence 
 **[C5,W3] Flat Posterior Does Matter For Bayesian Model Averaging**
 
 - Sungjun Lim, Jeyoon Yeom, Sooyon Kim, Hoyoon Byun, Jinho Kang, **Yohan Jung**†, Jiyoung Jung†, Kyungwoo Song†
-- To appear at Conference on Uncertainty in Artificial Intelligence (UAI), 2025
+- Conference on Uncertainty in Artificial Intelligence (UAI), 2025
 - ICLR 2025 Workshop: The Frontiers in Probabilistic Inference: Sampling meets Learning 
 - **[[PDF]](https://proceedings.mlr.press/v286/lim25a.html){:target="_blank"}** **[[CODE]](https://github.com/MLAI-Yonsei/FP-BMA){:target="\_blank"}** <br/>
 
