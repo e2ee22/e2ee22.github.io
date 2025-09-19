@@ -44,13 +44,6 @@ I  worked as a postdoc in Kim Jaechul Graduate School of Artificial Inteligence 
 
 (P: preprint, O: others, *, †:corresponding author)
 
-
-{: .mb-5}
-**[O3] Compact Memory for Continual Logistic Regression**
-
-- Under review
-
-
 {: .mb-5}
 **[O2] Efffective Function-Space Regularization for Bayesian Neural Networks via Learning Trajectories**
 
@@ -65,6 +58,15 @@ I  worked as a postdoc in Kim Jaechul Graduate School of Artificial Inteligence 
 ## Publication (Peer-Reviewed)
 
 (W: workshop, C: conference, J: journal, O: others, *:equal contribution, †:corresponding author)
+
+
+
+{: .mb-5}
+**[C6] Compact Memory for Continual Logistic Regression**
+
+- **Yohan Jung**, Hyungi Lee, Wenlong Chen, Thomas Mllenhoff, Yingzhen Li, Juho Lee, Mohammad Emtiyaz Khan
+- To appear at Neural Information Processing Systems (NeurIPS), 2025
+
 
 {: .mb-5}
 **[W4] Compact Memory for K-prior Based Continual Learning**
