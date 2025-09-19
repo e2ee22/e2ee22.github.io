@@ -65,7 +65,7 @@ I  worked as a postdoc in Kim Jaechul Graduate School of Artificial Inteligence 
 **[C6] Compact Memory for Continual Logistic Regression**
 
 - **Yohan Jung**, Hyungi Lee, Wenlong Chen, Thomas Mllenhoff, Yingzhen Li, Juho Lee, Mohammad Emtiyaz Khan
-- To appear at Neural Information Processing Systems (NeurIPS), 2025
+- To appear in Neural Information Processing Systems (NeurIPS), 2025
 
 
 {: .mb-5}
