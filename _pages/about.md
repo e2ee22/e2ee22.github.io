@@ -40,60 +40,34 @@ I  worked as a postdoc in Kim Jaechul Graduate School of Artificial Inteligence 
 - Adaptaion algorithms for transfer learning and continual learning
 
 
-## Working Paper
-
-(P: preprint, O: others, *, †:corresponding author)
-
-{: .mb-5}
-**[O2] Efffective Function-Space Regularization for Bayesian Neural Networks via Learning Trajectories**
-
-- Under review
-
-
-{: .mb-5}
-**[O1] Domain Generalization for Time-Series Classification: Leverage Inductive Bias on Frequency Domain**
-
-- **Yohan Jung**\*, Chuanbo Hua\*, Jinkyoo Park
-
 ## Publication (Peer-Reviewed)
 
-(W: workshop, C: conference, J: journal, O: others, *:equal contribution, †:corresponding author)
-
-
+(C: conference, J: journal,  *:equal contribution, †:corresponding author)
 
 {: .mb-5}
-**[C6] Compact Memory for Continual Logistic Regression**
+**[C7] Compact Memory for Continual Logistic Regression**
 
 - **Yohan Jung**, Hyungi Lee, Wenlong Chen, Thomas Mllenhoff, Yingzhen Li, Juho Lee, Mohammad Emtiyaz Khan
 - To appear in Neural Information Processing Systems (NeurIPS), 2025
 
 
 {: .mb-5}
-**[W4] Compact Memory for K-prior Based Continual Learning**
-
-- **Yohan Jung**\*, Hyungi Lee\*, Wenlong Chen\*, Thomas Mllenhoff, Yingzhen Li, Juho Lee, Mohammad Emtiyaz Khan
-- 7th Symposium on Advances in Approximate Bayesian Inference (AABI), 2025
-- **[[PDF]](https://openreview.net/pdf?id=vx0USHUYgL){:target="_blank"}**
-
-
-{: .mb-5}
-**[C5,W3] Flat Posterior Does Matter For Bayesian Model Averaging**
+**[C6] Flat Posterior Does Matter For Bayesian Model Averaging**
 
 - Sungjun Lim, Jeyoon Yeom, Sooyon Kim, Hoyoon Byun, Jinho Kang, **Yohan Jung**†, Jiyoung Jung†, Kyungwoo Song†
 - Conference on Uncertainty in Artificial Intelligence (UAI), 2025
-- ICLR 2025 Workshop: The Frontiers in Probabilistic Inference: Sampling meets Learning 
 - **[[PDF]](https://proceedings.mlr.press/v286/lim25a.html){:target="_blank"}** **[[CODE]](https://github.com/MLAI-Yonsei/FP-BMA){:target="\_blank"}** <br/>
 
 
 {: .mb-5}
-**[C4] Bayesian Convolutional Deep Sets with Task-Dependent Stationary Prior**
+**[C5] Bayesian Convolutional Deep Sets with Task-Dependent Stationary Prior**
 
 - **Yohan Jung**, Jinkyoo Park
 - International Conference on Artificial Intelligence and Statistics (AISTATS), 2023 
 - **[[PDF]](https://proceedings.mlr.press/v206/jung23a.html){:target="_blank"}** **[[CODE]](https://github.com/becre2021/BayesConvdeepset){:target="\_blank"}** <br/>
 
 {: .mb-5}
-**[C3] Efficient Approximate Inference for Stationary Kernel on Frequency domain**
+**[C4] Efficient Approximate Inference for Stationary Kernel on Frequency domain**
 
 - **Yohan Jung**, Kyungwoo Song, Jinkyoo Park
 - International Conference on Machine Learning (ICML), 2022
@@ -109,11 +83,47 @@ I  worked as a postdoc in Kim Jaechul Graduate School of Artificial Inteligence 
 - **[[PDF]](https://www.tandfonline.com/doi/full/10.1080/10618600.2021.2023021){:target="_blank"}** **[[CODE]](https://github.com/becre2021/abinferhmmgp){:target="_blank"}** <br/>
 
 {: .mb-5}
-**[C2] Implicit Kernel Attention**
+**[C3] Implicit Kernel Attention**
 
 - Kyungwoo Song, **Yohan Jung**, Dongjun Kim, Il-Chul Moon
 - Association for the Advancement of Artificial Intelligence (AAAI), 2021
 - **[[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/17168/16975){:target="_blank"}** **[[CODE]](https://github.com/gtshs2/Implicit_Kernel_Attention){:target="_blank"}**<br/>
+
+{: .mb-5}
+**[C2] Energy storage control based on user clustering and battery capacity allocation**
+
+- Heechang Ryu, **Yohan Jung**, Jinkyoo Park
+- 2017 IEEE Power & Energy Society General Meeting, 1-5
+- **[[PDF]](https://ieeexplore.ieee.org/document/8273768){:target="_blank"}** <br/>
+
+{: .mb-5}
+**[C1] 예측모델 (Gaussian Process Regression) 을 통한 에너지저장시스템 운영전략**
+
+- **정요한**, 박진규
+- 한국시뮬레이션학회 2017
+- **[[PDF]](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE07169362&mark=0&useDate=&ipRange=N&accessgl=Y&language=ko_KR){:target="_blank"}** <br/>
+
+
+
+## Workshop (Peer-Reviewed)
+
+(W: workshop, *:equal contribution, †:corresponding author)
+
+
+{: .mb-5}
+**[W4] Compact Memory for K-prior Based Continual Learning**
+
+- **Yohan Jung**\*, Hyungi Lee\*, Wenlong Chen\*, Thomas Mllenhoff, Yingzhen Li, Juho Lee, Mohammad Emtiyaz Khan
+- 7th Symposium on Advances in Approximate Bayesian Inference (AABI), 2025
+- **[[PDF]](https://openreview.net/pdf?id=vx0USHUYgL){:target="_blank"}**
+
+{: .mb-5}
+**[W3] Flat Posterior Does Matter For Bayesian Model Averaging**
+
+- Sungjun Lim, Jeyoon Yeom, Sooyon Kim, Hoyoon Byun, Jinho Kang, **Yohan Jung**†, Jiyoung Jung†, Kyungwoo Song†
+- ICLR 2025 Workshop: The Frontiers in Probabilistic Inference: Sampling meets Learning 
+- **[[PDF]](https://openreview.net/forum?id=j4nGQW85to){:target="_blank"}**  <br/>
+
 
 {: .mb-5}
 **[W2] Scalable Hybrid Hidden Markov Model with Gaussian Process Emission for Sequential Time-series Observations**
@@ -128,17 +138,3 @@ I  worked as a postdoc in Kim Jaechul Graduate School of Artificial Inteligence 
 - **Yohan Jung**, Jinkyoo Park
 - 2nd Symposium on Advances in Approximate Bayesian Inference (AABI), 2019
 - **[[PDF]](https://openreview.net/pdf?id=HJlvKy3VFS){:target="_blank"}** <br/>
-
-{: .mb-5}
-**[C1] Energy storage control based on user clustering and battery capacity allocation**
-
-- Heechang Ryu, **Yohan Jung**, Jinkyoo Park
-- 2017 IEEE Power & Energy Society General Meeting, 1-5
-- **[[PDF]](https://ieeexplore.ieee.org/document/8273768){:target="_blank"}** <br/>
-
-{: .mb-5}
-**[O1] 예측모델 (Gaussian Process Regression) 을 통한 에너지저장시스템 운영전략**
-
-- **정요한**, 박진규
-- 한국시뮬레이션학회 2017
-- **[[PDF]](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE07169362&mark=0&useDate=&ipRange=N&accessgl=Y&language=ko_KR){:target="_blank"}** <br/>
