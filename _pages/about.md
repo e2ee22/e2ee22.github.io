@@ -48,6 +48,7 @@ I  worked as a postdoc in Kim Jaechul Graduate School of Artificial Inteligence 
 - **Yohan Jung**, Hyungi Lee, Wenlong Chen, Thomas Mllenhoff, Yingzhen Li, Juho Lee, Mohammad Emtiyaz Khan
 - To appear in Neural Information Processing Systems (NeurIPS), 2025
 - Extension of workshop paper [W4] 
+- **[[PDF]](https://arxiv.org/pdf/2511.09167){:target="_blank"}** **[[CODE]](https://github.com/team-approx-bayes/compact_memory_code){:target="\_blank"}** <br/>
 
 {: .mb-5}
 **[C6] Flat Posterior Does Matter For Bayesian Model Averaging**
