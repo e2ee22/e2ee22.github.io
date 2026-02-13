@@ -19,8 +19,7 @@ I  worked as a postdoc in Kim Jaechul Graduate School of Artificial Inteligence 
 </style>
 
 ## Work Experience
-
-- 2024.07 - present: Postdoc, ABI team, RIKEN AIP
+- 2024.07 - 2026.02: Postdoc, ABI team, RIKEN AIP
 - 2023.03 - 2024.06: Postdoc, Graduate School of AI, KAIST
 
 ## Education
@@ -35,7 +34,7 @@ I  worked as a postdoc in Kim Jaechul Graduate School of Artificial Inteligence 
 - Probabilistic & Bayesian Deep Learning and its Uncertainty Estimation
 - Approximate Bayesian Inference
 - PAC-Bayes generalization bound
-- Adaptaion algorithms for transfer learning and continual learning
+- Adaptation algorithms for transfer learning and continual learning
 
 
 ## Publication (Peer-Reviewed)
@@ -46,7 +45,7 @@ I  worked as a postdoc in Kim Jaechul Graduate School of Artificial Inteligence 
 **[C7] Compact Memory for Continual Logistic Regression**
 
 - **Yohan Jung**, Hyungi Lee, Wenlong Chen, Thomas Mllenhoff, Yingzhen Li, Juho Lee, Mohammad Emtiyaz Khan
-- To appear in Neural Information Processing Systems (NeurIPS), 2025
+- Neural Information Processing Systems (NeurIPS), 2025
 - Extension of workshop paper [W4] 
 - **[[PDF]](https://arxiv.org/pdf/2511.09167){:target="_blank"}** **[[CODE]](https://github.com/team-approx-bayes/compact_memory_code){:target="\_blank"}** <br/>
 
