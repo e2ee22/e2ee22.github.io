@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I  am a postdoc in [ABI team](https://team-approx-bayes.github.io/){:target="\_blank",:style="text-decoration:none;"} of RIKEN AIP. Before this,
+I am an assistant professor in the Department of Computer Science & Artificial Intelligence at Jeonbuk National University. Before this, I  was a postdoc in [ABI team](https://team-approx-bayes.github.io/){:target="\_blank",:style="text-decoration:none;"} of RIKEN AIP. Also, 
 I  worked as a postdoc in Kim Jaechul Graduate School of Artificial Inteligence from KAIST, advised by Professor [Juho Lee](https://juho-lee.github.io/){:target="\_blank",:style="text-decoration:none;"}. I completed my PhD in Industrial Systems & Engineering from KAIST, advised Professor [Jinkyoo Park](http://silab.kaist.ac.kr/our-team/){:target="\_blank",:style="text-decoration:none;"}. Before entering the PhD program, I received a BS in Mathematics from the University of Seoul (UOS) and MS in Industrial Systems & Engineering from KAIST, advised Professor Jinkyoo Park.
 
 <style type='text/css'>
@@ -19,6 +19,7 @@ I  worked as a postdoc in Kim Jaechul Graduate School of Artificial Inteligence 
 </style>
 
 ## Work Experience
+- 2026.03 - Present: Assistant professor, CS & AI, JBNU
 - 2024.07 - 2026.02: Postdoc, ABI team, RIKEN AIP
 - 2023.03 - 2024.06: Postdoc, Graduate School of AI, KAIST
 
