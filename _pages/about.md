@@ -20,7 +20,7 @@ I am an assistant professor in [Department of Computer Science & Artificial Inte
 ## Work Experience
 - 2026.03 - Present: Assistant professor, CS & AI, JBNU
 - 2024.07 - 2026.02: Postdoc, ABI team, RIKEN AIP
-- 2023.03 - 2024.06: Postdoc, Graduate School of AI, KAIST
+- 2023.03 - 2024.06: Postdoc, SIML lab, KAIST AI
 
 ## Education
 
